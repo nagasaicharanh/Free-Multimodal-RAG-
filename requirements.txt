@@ -1,0 +1,32 @@
+# PDF Processing
+pymupdf==1.24.8
+pdfplumber==0.11.0
+unstructured==0.14.6
+
+# Vector Database & Embeddings
+chromadb==0.5.6
+sentence-transformers==2.7.1
+datasets==2.18.0
+
+# Language Models & APIs
+groq==0.9.2
+google-generativeai==0.8.3
+langchain==0.2.5
+langchain-core==0.2.6
+langchain-text-splitters==0.0.1
+
+# UI & Web
+streamlit==1.40.0
+
+# Data & Processing
+pandas==2.2.0
+numpy==1.26.4
+pillow==10.2.0
+pyarrow==15.0.0
+
+# Utilities
+python-dotenv==1.0.1
+requests==2.32.3
+
+# Optional: Local LLM fallback
+ollama==0.3.4
