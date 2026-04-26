@@ -111,10 +111,6 @@ Run the benchmark on your PDFs to find the optimal strategy. Results saved to `r
 
 Contributions welcome! Please follow PEP 8 and add tests for new features.
 
-## 📄 License
-
-MIT License — see LICENSE file for details.
-
 ## 📚 Learn More
 
 - [Groq LLM Documentation](https://console.groq.com/docs)
