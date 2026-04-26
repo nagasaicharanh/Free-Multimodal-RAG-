@@ -107,6 +107,20 @@ The system includes a benchmark comparing three chunking strategies. Run it in t
 
 Run the benchmark on your PDFs to find the optimal strategy. Results saved to `results/chunking_benchmark.csv`.
 
+## 🧪 Live System Demo (Sample Results)
+
+Verified on `TechNova_Employee_Handbook.pdf`:
+
+| Question | Modality | Answer |
+| --- | --- | --- |
+| How many days of annual leave do I get after 5 years? | **TEXT** | 30 days/year. |
+| What happens if I share confidential data? | **TABLE** | You will face suspension pending investigation, as outlined in rule 2 of the company rules. |
+| What is TechNova's mission? | **TEXT** | TechNova's mission is to "Build technology that empowers people, not replaces them." |
+| How much is the internship stipend? | **TEXT** | €1,200/month (for all intern positions) or €15-18/hour (for working students). |
+| What are the IT security rules? | **TEXT** | Passwords must be 16+ chars, mandatory MFA, VPN required, no personal device storage. |
+| What salary can I expect as a Senior Engineer? | **TABLE** | €68,000 - €88,000 per year + up to 18% bonus. |
+| Am I allowed to work from home? | **TEXT** | Yes, up to 3 days per week with manager approval. |
+
 ## 🤝 Contributing
 
 Contributions welcome! Please follow PEP 8 and add tests for new features.
