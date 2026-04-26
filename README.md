@@ -13,6 +13,10 @@ A fully free, open-source Multimodal Retrieval-Augmented Generation (RAG) system
 - **Source Attribution**: Every answer includes source badge, snippet, and original content reference
 - **Graceful Fallback**: If Groq API is unavailable, system falls back to local LLM (ollama)
 
+## 🖼️ Application Interface
+
+![Streamlit UI](screenshots/UI.png)
+
 ## 🏗️ Architecture
 
 ```
